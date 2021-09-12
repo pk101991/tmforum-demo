@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class TmForumController {
 	
-@GetMapping("/homepage1")
+@GetMapping("/homepage")
 public ResponseEntity<Object> display()
 {
 	
