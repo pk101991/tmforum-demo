@@ -46,7 +46,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>trforum-demo</finalName>
+		<finalName>tmforum-demo</finalName>
 	</build>
 
 </project>
